@@ -26,6 +26,7 @@ I believe that in 2023, my ability to study will help me fill in the missing kno
 
 ## 👩🏼‍💻 Code example:
 **Task:** *It is required to find 2 numbers from the sorted array, summing up the number k, with optimal performance*
+
 **Solution:** *Two-pointer method*
 ```
   const arr = [-3, 0, 2, 4, 5]
@@ -52,9 +53,23 @@ I believe that in 2023, my ability to study will help me fill in the missing kno
 
 ****************
 
-# 👩🏼‍🎓 Courses:
+## 👩🏼‍🎓 Courses:
 * MODERN FRONT-END WITH JAVASCRIPT AND HTML5 (completed)
 ![Belhard Academy](./assets/img/BELHARD_Artur_Klimashevich.jpg "Certificate")
 * RS Schools Course «JavaScript/Front-end.» (in progress)
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 * JavaScript Manual on [w3schools](https://www.w3schools.com/) (in progress)
+
+****************
+
+## 🏆 Education
+***СIVIL ENGINEER***
+* Brest State Technical University (2006 - 2011)
+
+****************
+
+## 💬 Languages:
+* Russian - native
+* English - B1 (in progress)
+* Polish - A2+ (in progress)
+* Spanish - A2
