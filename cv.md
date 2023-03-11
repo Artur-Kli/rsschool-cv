@@ -24,6 +24,34 @@ I believe that in 2023, my ability to study will help me fill in the missing kno
 
 ****************
 
+## 👩🏼‍💻 Code example:
+**Task:** *It is required to find 2 numbers from the sorted array, summing up the number k, with optimal performance*
+**Solution:** *Two-pointer method*
+```
+  const arr = [-3, 0, 2, 4, 5]
+  let k = 7
+
+  function twoSum(arr, k) {
+    let left = 0
+    let right = arr.length - 1
+    while(left<right){
+      let sum = arr[left] + arr[right]
+      if(sum == k) {
+        return new Array(arr[left], arr[right])
+      } else if (sum < k) {
+        left++
+      } else {
+        right--
+      }
+    }
+    return new Array()
+  }
+
+  console.log(twoSum(arr, k)) // [2, 5]
+```
+
+****************
+
 # 👩🏼‍🎓 Courses:
 * MODERN FRONT-END WITH JAVASCRIPT AND HTML5 (completed)
 ![Belhard Academy](./assets/img/BELHARD_Artur_Klimashevich.jpg "Certificate")
